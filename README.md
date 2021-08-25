@@ -8,7 +8,7 @@ Hi! I'm Ahmed
 - 📫 How to reach me: (www.linkedin.com/in/Ahmedbennaji)
 
 ### :zap: Recent Activity
-<!--START_SECTION:activity-->
+
 
 
 
