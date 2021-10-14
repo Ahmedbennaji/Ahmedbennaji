@@ -8,7 +8,7 @@ Hi! I'm Ahmed
 
 <!-- ### :zap: Recent Activity
  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbennaji&layout=compact)](https://github.com/Ahmedbennaji/github-readme-stats)
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedbennaji&show_icons=true&theme=radical)
 
 
