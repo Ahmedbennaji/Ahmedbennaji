@@ -8,7 +8,8 @@ Hi! I'm Ahmed
 
 <!-- ### :zap: Recent Activity
  -->
-[![Ahmed's](https://github-readme-stats.vercel.app/api/Ahmedbennaji?username=Ahmedbennaji)](https://github.com/Ahmedbennaji/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ahmedbennaji)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
