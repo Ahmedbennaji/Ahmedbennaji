@@ -9,6 +9,6 @@ Hi! I'm Ahmed
 <!-- ### :zap: Recent Activity
  -->
 
-
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedbennaji&show_icons=true&theme=radical)
 
 
