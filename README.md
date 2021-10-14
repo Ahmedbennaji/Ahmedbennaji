@@ -8,7 +8,7 @@ Hi! I'm Ahmed
 
 <!-- ### :zap: Recent Activity
  -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ahmedbennaji)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbennaji)](https://github.com/Ahmedbennaji/)
 
 
 
